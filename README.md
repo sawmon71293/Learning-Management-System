@@ -25,7 +25,7 @@
 
 # 📖  Learning Management System <a name="about-project"></a>
 
-**Learning Management System** is a website managing the students, courses, batches, teachers, show attendance report and exam marks report. From student portal, students can access the courses and take the exams, get instant results for multiple choice questions.
+**Learning Management System** is a website managing the students, courses, batches, teachers, show attendance report and exam marks report. From student portal, students can access the courses, get the meeting links created by teachers, take the exams and  get instant results for multiple choice questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
