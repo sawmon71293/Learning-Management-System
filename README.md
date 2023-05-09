@@ -14,11 +14,8 @@
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run Tests](#runtests)
-  - [Live](#live)
-  - [Video](#video)
 
-- [👥 Author](#authors)
+- [👥 Authors](#authors)
 - [🔭 Future Features](#features)
 - [🤝 Contribution](#contributing)
 - [⭐️ Show your support](#support)
@@ -58,8 +55,6 @@ This is to practice Java, Spring Boot framework
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -96,7 +91,7 @@ Clone this repository to your desired folder:
 - Open the browser and run localhost:8080 for Admin/Teacher, localhost:9090 for Student.
 
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Htet Wai Aung**
 
