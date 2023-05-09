@@ -25,7 +25,7 @@
 
 # 📖  Learning Management System <a name="about-project"></a>
 
-**Learning Management System** is a website managing the students, courses and teachers.
+**Learning Management System** is a website managing the students, courses, batches, teachers and show attendance reports.
 
 ## 🛠 Built With <a name="built-with"></a>
 
