@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "assets/img/chapterFiles",
+        "assets/img/admin",
+        "assets/img/customChapterFiles"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
