@@ -74,7 +74,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-folder
-  git clone https://github.com/sawmon71293/Snowball-AILMS.git
+  git clone https://github.com/sawmon71293/Learning-Management-System.git
 ```
 
 ### Install
