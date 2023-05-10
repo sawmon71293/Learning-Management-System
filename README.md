@@ -34,10 +34,10 @@
 <a name="built-with">HTML/CSS,</a>
 <a name="tech-stack">JavaScript,</a>
 <a name="tech-stack">AJAX,</a>
-<a name="tech-stack">Java</a>
-<a name="tech-stack">Spring Boot</a>
-<a name="tech-stack">Spring Data JPA</a>
-<a name="tech-stack">Spring Security</a>
+<a name="tech-stack">Java,</a>
+<a name="tech-stack">Spring Boot,</a>
+<a name="tech-stack">Spring Data JPA<,/a>
+<a name="tech-stack">Spring Security,</a>
 <a name="tech-stack">MySQL DB</a>
 
 
